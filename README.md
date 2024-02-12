@@ -1,10 +1,10 @@
 What is Git?
 
-A: Free and open source version control system.
+A: Free and open-source version control system.
 
 What is Version Control?
 
-A: The management of changes to documents, computer programs, large web sites, and other collections of information.
+A: The management of changes to documents, computer programs, large websites, and other collections of information.
 
 **Terms**
 
